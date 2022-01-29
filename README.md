@@ -3,5 +3,5 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wpaq&layout=compact&langs_count=16&theme=algolia"/>
 
   
-[![Linkedin Badge](https://img.shields.io/badge/-Wallyson-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wallyson-pablo)](https://www.linkedin.com/in/wallyson-pablo-bbb361184/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Wallyson-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wallyson-pablo)](https://www.linkedin.com/in/wallyson-pablo) 
 [![Gmail Badge](https://img.shields.io/badge/-wallysonpabloo@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wallysonpabloo@gmail.com)](mailto:wallysonpabloo@gmail.com)
