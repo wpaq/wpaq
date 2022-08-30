@@ -5,14 +5,7 @@
 <div size='20px'> Hey! My name is Wallyson Pablo. Thanks for visiting my profile. :smile: </div>
 
 
-#
 
-<a href="https://github.com/wpaq">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=wpaq&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wpaq&layout=compact&langs_count=16&theme=algolia"/>
-
-#
 ## Contato | Contact 📱
   
 [![Linkedin Badge](https://img.shields.io/badge/-Wallyson-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wallyson-pablo)](https://www.linkedin.com/in/wallyson-pablo) 
